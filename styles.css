@@ -3,19 +3,78 @@
 
 *{
   background-color: lightpink;
-  font-family: sans-serif;
 }
 
 
 
-.header{
-  text-align: center;
+header{
+  text-align: left;
+  font-family: 'Arvo', serif;
+}
+img{
+  width: 300px;
+  height: 100px;
+  position: sticky;
+  : 800px;
 }
 
 .firstheader{
   color: darkred;
+  font-family: 'Kanit', sans-serif;
 }
+
+.secondheader{
+  color: darkred;
+font-family: 'Kanit', sans-serif;
+}
+
+
+.thirdheader{
+  color: darkred;
+  font-family: 'Kanit', sans-serif;
+}
+
+.fourthheader{
+  color: darkred;
+  font-family: 'Kanit', sans-serif;
+}
+
+.fifthheader{
+  color: darkred;
+  font-family: 'Kanit', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
 
 .Camera{
   margin-right: 900px;
+  font-family: 'Rokkitt', serif;
+}
+
+.iphone{
+  margin-right: 900px;
+  font-family: 'Rokkitt', serif;
+}
+
+.Cars{
+    margin-right: 900px;
+    font-family: 'Rokkitt', serif;
+}
+
+.Laptops{
+    margin-right: 900px;
+    font-family: 'Rokkitt', serif;
+}
+
+.Televisions{
+    margin-right: 900px;
+    font-family: 'Rokkitt', serif;
 }
