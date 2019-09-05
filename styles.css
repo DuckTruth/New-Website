@@ -1,47 +1,67 @@
 
 
 
-*{
-  background-color: lightpink;
+body{
+  background-image: linear-gradient(lightpink,  lightblue)
 }
 
 
 
 header{
-  text-align: left;
+  text-align: center;
   font-family: 'Arvo', serif;
+  text-shadow: 3px 3px grey;
+  font-size: 30px;
+
+
+
+
+
+
 }
 img{
   width: 300px;
   height: 100px;
   position: sticky;
+  border-style: ridge;
+  border-width: thick;
+
   : 800px;
 }
 
 .firstheader{
   color: darkred;
   font-family: 'Kanit', sans-serif;
+  font-size: 20px;
 }
 
 .secondheader{
   color: darkred;
 font-family: 'Kanit', sans-serif;
+font-size: 20px;
+
 }
 
 
 .thirdheader{
   color: darkred;
   font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+
 }
 
 .fourthheader{
   color: darkred;
   font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+
 }
 
 .fifthheader{
   color: darkred;
   font-family: 'Kanit', sans-serif;
+  font-size: 20px;
+
 }
 
 
@@ -54,27 +74,37 @@ font-family: 'Kanit', sans-serif;
 
 
 
-.Camera{
-  margin-right: 900px;
+.camerap{
   font-family: 'Rokkitt', serif;
+  border-style: groove;
+  border-width: thick;
+
+
 }
 
-.iphone{
-  margin-right: 900px;
+.iphonep{
   font-family: 'Rokkitt', serif;
+  border-style: groove;
+border-width: thick;
 }
 
-.Cars{
-    margin-right: 900px;
+.carsp{
     font-family: 'Rokkitt', serif;
+    border-style: groove;
+    border-width: thick;
+
 }
 
-.Laptops{
-    margin-right: 900px;
+.laptopsp{
     font-family: 'Rokkitt', serif;
+    border-style: groove;
+    border-width: thick;
+
 }
 
-.Televisions{
-    margin-right: 900px;
+.televisionsp{
     font-family: 'Rokkitt', serif;
+    border-style: groove;
+    border-width: thick;
+
 }
