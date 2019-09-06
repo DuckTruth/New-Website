@@ -12,13 +12,13 @@ header{
   font-family: 'Arvo', serif;
   text-shadow: 3px 3px grey;
   font-size: 30px;
-
-
-
-
-
-
 }
+
+
+
+
+
+
 img{
   width: 300px;
   height: 100px;
@@ -85,7 +85,7 @@ font-size: 20px;
 .iphonep{
   font-family: 'Rokkitt', serif;
   border-style: groove;
-border-width: thick;
+  border-width: thick;
 }
 
 .carsp{
